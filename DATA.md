@@ -4,14 +4,14 @@ Use this data to model your game cards into objects.
 
 ### Suspects
 
-mrGreen <br>
-firstName: Jacob <br>
-lastName: Green<br>
-occupation: Entrepreneur<br>
-age: 45 <br>
-description: He has a lot of connections<br>
-image: https://pbs.twimg.com/profile_images/506787499331428352/65jTv2uC.jpeg <br>
-color: green <br>
+const mrGreen = {
+firstName: `Jacob`,
+lastName: `Green`,
+occupation: `Entrepreneur`,
+age: 45,
+description: `He has a lot of connections`,
+image: `https://pbs.twimg.com/profile_images/506787499331428352/65jTv2uC.jpeg`,
+color: `green`, }
 
 drOrchid<br>
 firstName: Doctor<br>
